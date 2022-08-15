@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LulTwTC0yxM6yobhTsxWU3CRTL2M4p7oezDKW3G2FuatlhdtUG4mBj6Uor3LV7B/T+U2z/rEUsnHMkUK+XZdhQ==",
+  "success": true,
+  "projectFilePath": "D:\\FirstWeb\\FirstWeb\\FirstWeb.Services\\FirstWeb.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hacker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hacker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
